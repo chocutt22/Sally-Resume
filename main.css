@@ -1,0 +1,79 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+
+div {
+  background-color: azure;
+  border: 1px solid aquamarine;
+  padding: 30px;
+  color: #4B0082;
+}
+
+h1 {
+	font-family: verdana;
+}
+
+#container {
+	border: 2px solid black;
+	background: #ddd;
+	width: 95%;
+	position: absolute;
+	top: 5%;
+	left: 5%;
+	margin-right: -5%;
+	transform: translate(-5%, -5%);
+}
+
+.info {
+	padding-top: 132px;
+	padding-bottom: 132px;
+	text-align: center;
+	float: left;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.image {
+	text-align: center;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.clearfix {
+	clear: both;
+	padding: 0px;
+}
+
+.left1 {
+	text-align: center;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.right1 {
+	text-align: center;
+	padding-left: 150px;
+	padding-right: 150px;
+}
+
+.right2 {
+	text-align: center;
+	padding-left: 150px;
+	padding-right: 150px;
+}
+
+.left2 {
+	text-align: center;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.right3 {
+	text-align: center;
+	padding-left: 150px;
+	padding-right: 150px;
+}
